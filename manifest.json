@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AK47 BP",
+    "description": "AK47 bp",
+    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "223e4567-e89b-12d3-a456-426614174001",
+      "version": [1, 0, 0]
+    }
+  ]
+}
